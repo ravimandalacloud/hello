@@ -7,4 +7,4 @@ spec:
   type: openapi
   lifecycle: production
   owner: user:guest
-  definition: https://petstore.swagger.io/v2/swagger.json
+  definition: https://api.apis.guru/v2/openapi.yaml
