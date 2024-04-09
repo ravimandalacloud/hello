@@ -5,7 +5,7 @@ metadata:
   # Other metadata and annotations omitted for brevity.
 spec:
   type: service
-  owner: my-team
+  owner: user:guest
   lifecycle: experimental
   providesApis:
     - spotify
